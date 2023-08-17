@@ -1983,6 +1983,10 @@ Markdown format:
 - Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion.
   [[pdf]](https://arxiv.org/abs/2306.15875)
   - Zhe Ye, Terui Mao, Li Dong, Diqun Yan. arXiv, 2023.
+
+- Evil Operation: Breaking Speaker Recognition with PaddingBack.
+  [[pdf]](https://arxiv.org/pdf/2308.04179)
+  - Zhe Ye, Diqun Yan, Li Dong, Kailai Shen. arXiv, 2023.
     
 - Adversarial Audio: A New Information Hiding Method and Backdoor for DNN-based Speech Recognition Models.
   [[pdf]](https://arxiv.org/abs/1904.03829.pdf)
